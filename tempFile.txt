@@ -1,3 +1,0 @@
-This is temp file.
-Modified
-THis is commit from local.
